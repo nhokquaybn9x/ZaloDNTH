@@ -1,7 +1,7 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
+  "created_at": "2026-10-08T08:16:58",
+  "description": "## 1.0.0 (2026-10-08)\n\n### ✨ New Features\n\n* release Morphe patches ([ba8d4e8](https://github.com/nhokquaybn9x/ZaloDNTH/commit/ba8d4e84b771ea923b01cd608d46d6e218d285b9))",
+  "download_url": "https://github.com/nhokquaybn9x/ZaloDNTH/releases/download/v1.0.0/patches-1.0.0.mpp",
   "signature_download_url": "",
-  "version": ""
+  "version": "1.0.0"
 }
